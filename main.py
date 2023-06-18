@@ -7,7 +7,7 @@ import os
 import random
 img = os.listdir('images')
 
-token =  "MTExMjI5NDQ5MTUwNDc4NzU1Nw.Gi99_r.JoIQTmBOz_nVo78yCfYdTqFDgOTkOFXVhT0-Gk"
+token =  "token"
 intents = discord.Intents.default()
 intents.message_content = True
 
